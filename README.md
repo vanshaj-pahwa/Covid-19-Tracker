@@ -1,6 +1,6 @@
 # Covid-19 Tracker Android app
 
-An android app to track COVID-19 status around the world.
+An android app to track COVID-19 status in India around the world.
 
 Features: 
 
