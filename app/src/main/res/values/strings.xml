@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Covid-19 Tracker</string>
+
+    <string-array name="entries">
+        <item>India</item>
+        <item>World</item>
+    </string-array>
+</resources>
